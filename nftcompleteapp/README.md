@@ -2,7 +2,10 @@
 
 Complete NFT project with your own split contract to divvy the earnings from your NFT collection. Create an ERC721A smart contract with delayed reveal for your NFTs. Set claim conditions from allowlist to public. Finally deploy your projects app with Vercel and share your domain for users to claim your NFT.   
 
-## Demo 🎯 https://warlocks-completenft.vercel.app ⛓️ Sepolia Testnet         
+## Demo
+🎯 URL: https://warlocks-completenft.vercel.app   
+🎯 Network: Sepolia Testnet  
+
 <img src="https://iili.io/HPi2TI1.png" alt="Create a complete NFT project using Thirdweb - Smart Contract, Delayed reveal, Split funds, Deploy" border="0" />   
 
 ## Contracts
